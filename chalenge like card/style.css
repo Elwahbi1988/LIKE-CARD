@@ -1,0 +1,89 @@
+#mercedes{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-top: 300px;
+    background-image: url(OIP.jpeg);
+    background-size: cover;
+    height: 200px;
+
+}
+#title1{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+
+}
+
+#price{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+
+#quant{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+
+#incrementbutton{
+    background-color: rgb(24, 223, 90);
+}
+
+#decrementbutton{
+    background-color: rgb(231, 233, 137);
+}
+
+#deletebutton{
+    background-color: rgb(236, 12, 12);
+}
+
+#likebutton{
+    background-color: rgb(14, 120, 187);
+}
+
+#bmw{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-top: 30px;
+    background-image: url(bm.jpeg);
+    background-size: cover;
+    height: 200px;
+}
+
+#title2{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-align: center;
+       
+       }
+       
+       #price2{
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-align: center;
+       }
+       
+       #quant2{
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-align: center;
+       }
+       
+       #incrementbutton2{
+           background-color: rgb(24, 223, 90);
+       }
+       
+       #decrementbutton2{
+           background-color: rgb(231, 233, 137);
+       }
+       
+       #deletebutton2{
+           background-color: rgb(236, 12, 12);
+       }
+       
+       #likebutton2{
+           background-color: rgb(14, 120, 187);
+       }
